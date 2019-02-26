@@ -34,5 +34,5 @@ max_epochs = 20000
 schedule_gradient_threshold = 0.00001  # When the gradient of the learning curve is smaller than this value the LR will
                                        # be reduced
 
-train_eval_frequency = 200
+train_eval_frequency = 100
 val_eval_frequency = 100
